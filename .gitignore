@@ -1,0 +1,21 @@
+# Compilados de Maven
+target/
+*.class
+
+# Archivos de Eclipse
+.settings/
+.classpath
+.project
+bin/
+.metadata/
+
+# Otros IDE
+.idea/
+*.iml
+.vscode/
+
+# Temporales y sistema
+*.log
+*.tmp
+Thumbs.db
+desktop.ini
