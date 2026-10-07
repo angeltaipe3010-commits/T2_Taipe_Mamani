@@ -12,3 +12,7 @@ Evaluación 02 de Lenguaje de Programación II, martes 6 de octubre de 2026. Est
 
 ## Control de cambios
 Modifiqué a la vez README.md y pom.xml y creé observaciones.txt. Solo confirmé README.md y observaciones.txt; el cambio en pom.xml lo saqué del staging con git reset y lo descarté con git restore, porque era una prueba y no debía quedar en el historial.
+
+## Gestión de ramas
+Rama utilizada: feature-taipe.
+En esta rama agregué la clase ControlVersion_Taipe.java, que muestra en consola mis datos y avisa que se desarrolló en una rama independiente. La trabajé aparte para que master no cambiara hasta comprobar que el código estaba listo; recién ahí la fusioné con merge.
