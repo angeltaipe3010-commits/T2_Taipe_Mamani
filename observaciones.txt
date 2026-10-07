@@ -1,0 +1,2 @@
+Observación T2 - Angel Taipe Mamani
+Este archivo se creó en la Pregunta 02 para practicar el control del staging: quedó fuera del primer git add y recién se confirmó en el commit final de la actividad.
